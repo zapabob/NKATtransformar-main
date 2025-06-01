@@ -1,0 +1,36 @@
+{
+  "name": "nkat-transformer",
+  "version": "1.0.0",
+  "description": "99%+ MNIST Vision Transformer - Lightweight & Educational",
+  "author": "NKAT Advanced Computing Team",
+  "license": "MIT",
+  "python_requires": ">=3.8",
+  "keywords": [
+    "vision transformer",
+    "pytorch",
+    "mnist",
+    "deep learning",
+    "ai"
+  ],
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Education",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence"
+  ],
+  "repository": "https://github.com/your-username/nkat-transformer",
+  "documentation": "https://github.com/your-username/nkat-transformer/blob/main/README.md",
+  "created": "2025-06-01T16:55:27.691696",
+  "features": [
+    "99.20% MNIST accuracy",
+    "Single file implementation",
+    "Educational friendly",
+    "Production ready",
+    "CUDA optimized"
+  ]
+}
